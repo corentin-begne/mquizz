@@ -1,0 +1,8 @@
+dev:
+  webPath: 
+  path: /mquizz
+  wsPath: /mquizz
+prod:
+  webPath: 
+  path: http://mquizz.bennette.info
+  wsPath: 

@@ -1,0 +1,10 @@
+dev:
+  host: localhost
+  user: root
+  db: kapeco
+  pass: B3l00l459
+prod:
+  host: mysql51-154.perso
+  user: bennettekapeco
+  db: bennettekapeco
+  pass: aZ6cfg8re2

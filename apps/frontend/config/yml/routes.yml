@@ -1,0 +1,15 @@
+globalModule:
+  url: :module
+  module: :module
+  action: index
+  layout: default
+globalAction:
+  url: :module/:action
+  module: :module
+  action: :action
+  layout: default
+index:
+  url: 
+  module: home
+  action: index
+  layout: default

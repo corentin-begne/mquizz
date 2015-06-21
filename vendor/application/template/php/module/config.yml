@@ -1,0 +1,11 @@
+defaultName:
+  javascript:
+    - lib/jquery.min.js
+    - lib/jquery.percentageloader-0.2.js
+    - model/action.js
+    - helper/action.js
+    - helper/js.js
+    - module/action/manager.js
+    - module/action/main.js
+  stylesheet:
+    - module/action/main.css

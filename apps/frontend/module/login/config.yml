@@ -1,0 +1,11 @@
+index:
+  javascript:
+    - lib/jquery.min.js
+    - lib/jquery.percentageloader-0.2.js
+    - model/action.js
+    - helper/action.js
+    - helper/js.js
+    - login/manager.js
+    - login/main.js
+  stylesheet:
+    - login/main.css
